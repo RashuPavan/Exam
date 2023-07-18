@@ -13,6 +13,6 @@ public class SecondHighest {
 				max=arr[i];
 		}
 		
-		System.out.println(max);
+		System.out.println("max is=" +max);
 	}
 }
